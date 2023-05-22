@@ -2,5 +2,5 @@ Entornos de Desarrollo.
 Programación.
 Base de Datos.
 Sistemas Informáticos.
-Aplicaciones Web.
+Lenguaje de Marcas.
 FOL
